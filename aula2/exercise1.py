@@ -1,4 +1,4 @@
-## ESCREVA UM PROGRAMA EM QUE LEIA UMA SEQUÊNCIA DE NÚMEROS E EXIBA A SOMA DELES. ## 
+# ESCREVA UM PROGRAMA EM QUE LEIA UMA SEQUÊNCIA DE NÚMEROS E EXIBA A SOMA DELES. # 
 def main() -> None:
     soma: int = int(input("Digite a quantidade de números que deseja somar: "))
     if soma < 0: 
