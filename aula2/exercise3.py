@@ -1,3 +1,4 @@
+# escreva um programa onde o computador escolhe um número aleatório entre 1 e 100, e o jogador tenta adivinhar. o programa deve dar dicas se o palpite é muito alto ou muito baixo e contar o número de tentativas#
 import random
 
 def adivinhe_o_numero():
